@@ -21,7 +21,7 @@ from .token_cache import TokenCache
 
 
 # The __init__.py will import this. Not the other way around.
-__version__ = "1.10.0"
+__version__ = "1.10.0+sp1"
 
 logger = logging.getLogger(__name__)
 
